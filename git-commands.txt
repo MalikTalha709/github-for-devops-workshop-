@@ -1,0 +1,86 @@
+   1  conda env list
+    2  cd C:\Users\Malik Talha\miniconda3\etc\profile.d
+    3  cd C:\Users\MalikTalha\miniconda3\etc\profile.d
+    4  cd C:/Users/Malik Talha/miniconda3/etc/profile.d
+    5  cd C:/Users/MalikTalha/miniconda3/etc/profile.d
+    6  conda init bash
+    7  conda init
+    8  source ~/.bashrc
+    9  source ~/.bashrc
+   10  conda init
+   11  cd C:/Users/MalikTalha/miniconda3/etc/profile.d
+   12  source ~/.bashrc
+   13  echo ". '${PWD}'/conda.sh" >> ~/.bashrc
+   14  nano ~/.bashrc
+   15  cd Documents?
+   16  cd Documents/
+   17  ls
+   18  ls
+   19  cd ..
+   20  cd Documents/
+   21  ls
+   22  ls
+   23  cd Documents/
+   24  ls
+   25  cd git_test/
+   26  cd C:\Users\Malik Talha\OneDrive\Documents
+   27  cd C:
+   28  cd C:\Users
+   29  cd C:\Users\Malik Talha
+   30  cd C:\Users\Malik Talhals
+   31  ls
+   32  cd 'Malik Talha'/
+   33  ls
+   34  cd OneDrive/
+   35  ls
+   36  cd Documents/
+   37  ls
+   38  cd git_test/
+   39  ls
+   40  git init
+   41  ls
+   42  ls -l
+   43  ls - al
+   44  ls -al
+   45  touch test.txt
+   46  ls
+   47  conda create -n fastapi_env -y
+   48  conda activate fastapi_env
+   49  conda install python==3.11 -y
+   50  pip install fastapi
+   51  pip install "fastapi[standard]"
+   52  pip install "unicorn[standard]"
+   53  conda activate ds_env
+   54  pip uninstall jupyter notebook jupyterlab ipykernel -y
+   55  pip install notebook ipykernel
+   56  python -m ipykernel install --user --name ds_env --display-name "Python (ds_env)"
+   57  jupyter notebook stop
+   58  rd /s /q "%APPDATA%\jupyter\runtime"
+   59  jupyter notebook stop
+   60  rd /s /q "%APPDATA%\jupyter\runtime"
+   61  rd /s /q "%APPDATA%\jupyter\runtime"
+   62  git --version
+   63  git status
+   64  git status
+   65  ls
+   66  ls -l
+   67  git init
+   68  ls -a
+   69  git status
+   70  dir
+   71  git add testing.py
+   72  git status
+   73  git rm --cached
+   74  git rm --cached testing.py
+   75  git status
+   76  git add .
+   77  git status
+   78  git commit -m "added testing files"
+   79  git status
+   80  rm testing.py
+   81  clear
+   82  git staus
+   83  git status
+   84  git restore testing.py
+   85  git history
+   86  history
