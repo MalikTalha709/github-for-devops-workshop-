@@ -84,3 +84,7 @@
    84  git restore testing.py
    85  git history
    86  history
+   67  clear
+   68  git remote -v
+   69  git push origin master
+   70  history
