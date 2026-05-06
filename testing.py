@@ -1,1 +1,8 @@
-print("Hello dosto, kya haal chaal, kaise ho aap log?")
+def hello():
+    """
+    This function prints a greeting message to the console.
+    """
+    return "Hello, World!"
+
+
+hello()
