@@ -1,6 +1,11 @@
+"""
+This module contains a simple greeting function.
+"""
+
+
 def hello():
     """
-    This function prints a greeting message to the console.
+    Return a greeting message.
     """
     return "Hello, World!"
 
